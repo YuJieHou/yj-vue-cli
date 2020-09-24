@@ -1,0 +1,22 @@
+{
+  "name": "yj-vue-cli",
+  "version": "1.0.0",
+  "description": "用于搭建 Vue 项目的基础 CLI。",
+  "main": "index.js",
+  "bin": {
+    "yj": "src/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "vue-cli"
+  ],
+  "author": "",
+  "license": "ISC"
+}
